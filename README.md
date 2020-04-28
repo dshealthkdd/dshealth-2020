@@ -1,8 +1,8 @@
 # DSHealth 2020
 
-2020 KDD Workshop on Applied Data Science for Healthcare: Trustable and Actionable AI for Healthcare.
-San Diego, CA, USA.
-August 24, 2020 
+2020 KDD Workshop on Applied Data Science for Healthcare: Trustable and Actionable AI for Healthcare.  
+San Diego, CA, USA.  
+August 24, 2020   
 Webagpe: https://dshealthkdd.github.io/dshealth-2020/
 
 ---------------------------------
@@ -57,7 +57,6 @@ topics (For more information see workshop webpage) with special focus on
 techniques that are aimed at addressing the importance of trustable and
 actionable AI in healthcare.
 
- 
 * Trustworthiness
 * Interpretable healthcare
 * Actionable Insights
