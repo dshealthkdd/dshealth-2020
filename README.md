@@ -9,7 +9,7 @@ Webagpe: https://dshealthkdd.github.io/dshealth-2020/
 CALL FOR PAPERS
 ---------------------------------
 
-4 page submissions due by May 20, 2020
+4 page submissions due by Jun 15th, 2020
 
 Healthcare is, traditionally, a knowledge-driven enterprise with an enormous
 amount of data - both structured and unstructured. These data can impact
@@ -41,8 +41,8 @@ Important dates:
 --------------------------
 
 * Paper Submission opens: Apr 20, 2020
-* Paper Submission deadline: May 20, 2020
-* Acceptance Notice: Jun 15, 2020
+* Paper Submission deadline: Jun 15th, 2020
+* Acceptance Notice: Jul 03, 2020
 * Workshop Date: Aug 24, 2020
 
 All deadlines correspond to 11:59 PM Hawaii Standard Time 
